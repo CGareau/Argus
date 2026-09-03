@@ -1,0 +1,47 @@
+<!--
+  Argus — icône de référence (master unique).
+  NE PAS MODIFIER À LA MAIN sans régénérer les dérivés : `npm run icons`.
+  Géométrie : iris r=90 · pupille r=34.62 · reflet 87.88,86.15 r=11.25
+              24 traits de r=92 jusqu'au bord du carré (demi-largeur 99).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" aria-hidden="true" focusable="false">
+  <defs>
+    <radialGradient id="argusEyeIris" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0b1b3a"/>
+      <stop offset="22%" stop-color="#0b1b3a"/>
+      <stop offset="38%" stop-color="#1f6feb"/>
+      <stop offset="58%" stop-color="#12b0a0"/>
+      <stop offset="78%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#e3b341"/>
+    </radialGradient>
+  </defs>
+  <g stroke="#7ba7ef" stroke-width="1.8" stroke-linecap="round" opacity="0.58">
+    <line x1="100.00" y1="8.00" x2="100.00" y2="1.00"/>
+    <line x1="123.81" y1="11.13" x2="126.53" y2="1.00"/>
+    <line x1="146.00" y1="20.33" x2="157.16" y2="1.00"/>
+    <line x1="165.05" y1="34.95" x2="199.00" y2="1.00"/>
+    <line x1="179.67" y1="54.00" x2="199.00" y2="42.84"/>
+    <line x1="188.87" y1="76.19" x2="199.00" y2="73.47"/>
+    <line x1="192.00" y1="100.00" x2="199.00" y2="100.00"/>
+    <line x1="188.87" y1="123.81" x2="199.00" y2="126.53"/>
+    <line x1="179.67" y1="146.00" x2="199.00" y2="157.16"/>
+    <line x1="165.05" y1="165.05" x2="199.00" y2="199.00"/>
+    <line x1="146.00" y1="179.67" x2="157.16" y2="199.00"/>
+    <line x1="123.81" y1="188.87" x2="126.53" y2="199.00"/>
+    <line x1="100.00" y1="192.00" x2="100.00" y2="199.00"/>
+    <line x1="76.19" y1="188.87" x2="73.47" y2="199.00"/>
+    <line x1="54.00" y1="179.67" x2="42.84" y2="199.00"/>
+    <line x1="34.95" y1="165.05" x2="1.00" y2="199.00"/>
+    <line x1="20.33" y1="146.00" x2="1.00" y2="157.16"/>
+    <line x1="11.13" y1="123.81" x2="1.00" y2="126.53"/>
+    <line x1="8.00" y1="100.00" x2="1.00" y2="100.00"/>
+    <line x1="11.13" y1="76.19" x2="1.00" y2="73.47"/>
+    <line x1="20.33" y1="54.00" x2="1.00" y2="42.84"/>
+    <line x1="34.95" y1="34.95" x2="1.00" y2="1.00"/>
+    <line x1="54.00" y1="20.33" x2="42.84" y2="1.00"/>
+    <line x1="76.19" y1="11.13" x2="73.47" y2="1.00"/>
+  </g>
+  <circle cx="100" cy="100" r="90" fill="url(#argusEyeIris)"/>
+  <circle cx="100" cy="100" r="34.62" fill="#050d1c"/>
+  <circle cx="87.88" cy="86.15" r="11.25" fill="#eaf3ff" opacity="0.85"/>
+</svg>
