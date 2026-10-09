@@ -7,6 +7,6 @@
     <tr><td>Windows</td><td><a href="https://github.com/CGareau/Argus/releases/latest/download/Argus-windows.exe"><code>Argus-windows.exe</code></a></td><td align="right">7</td></tr>
     <tr><td>VS Code extension</td><td>any</td><td><a href="https://github.com/CGareau/Argus/releases/latest/download/Argus-vscode.vsix"><code>Argus-vscode.vsix</code></a></td><td align="right">10</td></tr>
     <tr><td rowspan="2">Mobile app</td><td>Android</td><td><a href="https://github.com/CGareau/Argus/releases/latest/download/Argus-android.apk"><code>Argus-android.apk</code></a></td><td align="right">33</td></tr>
-    <tr><td>iOS &amp; iPadOS (TestFlight beta)</td><td><a href="https://testflight.apple.com/join/tZdDxAYA"><code>TestFlight</code></a></td><td align="right">0</td></tr>
+    <tr><td>iOS &amp; iPadOS (TestFlight beta)</td><td><a href="https://testflight.apple.com/join/tZdDxAYA"><code>TestFlight</code></a></td><td align="right">1</td></tr>
   </tbody>
 </table>
